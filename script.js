@@ -13,4 +13,11 @@ console.log(paragraph);
 
 //Arrow Function
 
-
+//multiline
+const hello = () => {
+    return "Hello World!";
+  }
+// single line
+const hello = () => "Hello World!";
+const hello = val => "Hello World!" + val;
+const hello = (val, value) => "Hello World!" + val + value;
