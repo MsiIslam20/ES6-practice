@@ -14,10 +14,14 @@ console.log(paragraph);
 //Arrow Function
 
 //multiline
-const hello = () => {
-    return "Hello World!";
-  }
+const doMath = (x , y) => {
+    const sum = x + y;
+    const diff = x - y;
+    const total = sum * diff;
+    return total
+}
 // single line
-const hello = () => "Hello World!";
-const hello = val => "Hello World!" + val;
-const hello = (val, value) => "Hello World!" + val + value;
+const doubleIt = num => num * 2;
+const sum = (x , y) => x + y;
+
+
