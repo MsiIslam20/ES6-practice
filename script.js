@@ -10,3 +10,7 @@ const paragraph = `I love my country.
 I will be a creative developer.`
 console.log(paragraph);
 
+
+//Arrow Function
+
+
