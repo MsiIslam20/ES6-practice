@@ -14,5 +14,5 @@ class Child extends Parent{
 
 const actor = new Child("Shakib Khan")
 const actor2 = new Child("SRK khan")
-// console.log(actor);
-// console.log(actor2);
+console.log(actor);
+console.log(actor2);

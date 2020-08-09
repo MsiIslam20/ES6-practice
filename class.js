@@ -11,5 +11,5 @@ class Student{
 
 const studentOne = new Student(2, "Saidul");
 const studentTwo = new Student(3, "Islam");
-// console.log(studentOne);
-// console.log(studentTwo);
+console.log(studentOne);
+console.log(studentTwo);
