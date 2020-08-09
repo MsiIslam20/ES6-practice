@@ -8,8 +8,8 @@ let person = {
 }
 // When destructuring, you can set a value for one variable to be the value of another variable.
 const {name, nickname = name} = person
-console.log(name);
-console.log(nickname);
+// console.log(name);
+// console.log(nickname);
 
 
 
