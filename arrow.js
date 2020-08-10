@@ -9,4 +9,5 @@ const doMath = (x , y) => {
 }
 // single line
 const doubleIt = num => num * 2;
+
 const sum = (x , y) => x + y;
